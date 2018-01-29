@@ -1,8 +1,9 @@
 import React from 'react'
+import './main.css'
 
-function HomeLayout(pros) {
+function HomeLayout(props) {
 	return(
-		<div>
+		<div className="main">
 			{props.children}
 		</div>
 	)

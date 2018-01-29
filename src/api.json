@@ -1,0 +1,42 @@
+{
+	"categories": [
+		{
+			"title": "Vida",
+			"info": "Conoce pequeñas historias de la vida de las personas",
+			"elements": [
+				{
+					"src": "../source/img/prueba.jpg",
+					"titulo": "Prueba",
+					"info": "probando 1 2 3 probando probando, marico el que lo lea.",
+					"id": 1
+				},
+				{
+					"src": "../source/img/prueba.jpg",
+					"titulo": "Prueba",
+					"info": "probando 1 2 3 probando probando, marico el que lo lea.",
+					"id": 2
+				}
+			],
+			"id": 1
+		},
+		{
+			"title": "Tecnología",
+			"info": "La tecnología es innovación, y el mundo nunca para de innovar",
+			"elements": [
+				{
+					"src": "../source/img/prueba.jpg",
+					"titulo": "Prueba",
+					"info": "probando 1 2 3 probando probando, marico el que lo lea.",
+					"id": 1
+				},
+				{
+					"src": "../source/img/prueba.jpg",
+					"titulo": "Prueba",
+					"info": "probando 1 2 3 probando probando, marico el que lo lea.",
+					"id": 2
+				}
+			],
+			"id": 2
+		}
+	]
+}
