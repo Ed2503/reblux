@@ -1,7 +1,6 @@
 .panel {
 	height: 95%;
 	width: 75%;
-	display: flex;
 	align-items: center;
 	flex-direction: column;
 	overflow: auto;
