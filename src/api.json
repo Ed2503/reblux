@@ -1,42 +1,35 @@
 {
 	"categories": [
 		{
-			"title": "Vida",
-			"info": "Conoce pequeñas historias de la vida de las personas",
+			"title": "Tecnología",
+			"info": "Conoce plac tecnologías que están innovando al mundo",
 			"elements": [
 				{
-					"src": "../source/img/prueba.jpg",
-					"titulo": "Prueba",
-					"info": "probando 1 2 3 probando probando, marico el que lo lea.",
+					"src": "./source/img/ia.jpg",
+					"titulo": "IA",
+					"info": "Intelligence Artificial, la tecnología del siglo",
 					"id": 1
 				},
 				{
-					"src": "../source/img/prueba.jpg",
-					"titulo": "Prueba",
-					"info": "probando 1 2 3 probando probando, marico el que lo lea.",
+					"src": "./source/img/master.jpg",
+					"titulo": "PC Master Race",
+					"info": "Los maestros de la raza, PC Master Race!",
 					"id": 2
+				},
+				{
+					"src": "./source/img/q.jpg",
+					"titulo": "Computadoras cuánticas",
+					"info": "La ciencia ficción ya no es ficción",
+					"id": 3
+				},
+				{
+					"src": "./source/img/iot.jpg",
+					"titulo": "IoT",
+					"info": "Internet de las cosas, la innovación a tu alcance",
+					"id": 4
 				}
 			],
 			"id": 1
-		},
-		{
-			"title": "Tecnología",
-			"info": "La tecnología es innovación, y el mundo nunca para de innovar",
-			"elements": [
-				{
-					"src": "../source/img/prueba.jpg",
-					"titulo": "Prueba",
-					"info": "probando 1 2 3 probando probando, marico el que lo lea.",
-					"id": 1
-				},
-				{
-					"src": "../source/img/prueba.jpg",
-					"titulo": "Prueba",
-					"info": "probando 1 2 3 probando probando, marico el que lo lea.",
-					"id": 2
-				}
-			],
-			"id": 2
 		}
 	]
 }

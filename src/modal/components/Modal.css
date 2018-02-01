@@ -1,0 +1,41 @@
+.Modal {
+	height: 100%;
+	width: 100%;
+	background: white;
+	border-radius: 5px;
+	box-shadow: 0px 0px 12px -1px rgba(0,0,0,0.75);
+	bottom: 500px;
+	position: relative;
+	display: flex;
+}
+#modal {
+	height: 50%;
+	width: 40%;
+	margin: 0px 30%;
+}
+#closer {
+	position: absolute;
+	margin: 15px;
+	font-size: 25px;
+	font-family: 'Roboto';
+	right: 0px;
+	cursor: pointer;
+	transition: .2s;
+}
+#closer:hover {
+	color: red;
+}
+.modal-cont {
+	width: 80%;
+	height: 80%;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	font-family: 'Roboto';
+}
+.modal-cont img {
+	max-width: 100%;
+	max-height: 90%;
+	margin: auto;
+}
